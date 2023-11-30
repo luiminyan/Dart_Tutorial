@@ -1,6 +1,6 @@
 # Dart_Tutorial
 A repository for my learning progress of basic dart grammar. Special thanks to the very nice tutorial by @digifabrik <https://www.youtube.com/@digifabrik>.<br>
-Components:<br>
+Components:
 1. Operations (mathematics & logic)<br>
 2. the print() function of dart<br>
 3. Simple & complex datatype<br>
