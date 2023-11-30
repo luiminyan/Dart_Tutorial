@@ -18,11 +18,20 @@ void main(){
     List z = x + y;
     print(z);
 
-    // define datatype of list elements
+    // define DATATYPE of list elements
     List <String> strList = ["Pupi", "Momo"];
     // strList.add(1);  //error: type conflict
 
    
 
     // Datatype02: Map
+    Map price = {
+        'Apple': 0.99,
+        'Banana':0.50,
+        'Avocado':0.67
+    };
+    print(price['Apple']);
+    // rewrite value
+    price['Avocado'] = 0.01;
+    print(price);
 }
